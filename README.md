@@ -92,7 +92,7 @@ The `BottomBar` component uses absolute positioning and appears at the bottom of
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yassine0803/waste-skip.git
    cd waste-skip
    ```
 
@@ -108,6 +108,9 @@ The `BottomBar` component uses absolute positioning and appears at the bottom of
 
 4. **Open your browser**
    Navigate to `http://localhost:5173` to view the application
+
+4. **Preview build on netlify**
+   Navigate to `https://storied-peony-88fe27.netlify.app`
 
 ## 📜 Available Scripts
 
